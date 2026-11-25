@@ -1,69 +1,63 @@
-# NovaCalc
+# OIBSIP – Web Development & Designing
 
-A modern and responsive scientific calculator built using **HTML, CSS, and JavaScript**.
+Welcome to my Oasis Infobyte Internship Projects Repository!
 
-## Features
+This repository showcases the projects developed as part of my **Oasis Infobyte Internship Program** under the **Web Development & Designing – Level 2** track.
 
-- Basic arithmetic operations
-- Scientific calculations
-- sin, cos, tan
-- sin⁻¹, cos⁻¹, tan⁻¹
-- log and ln
-- Square root and cube root
-- x², x³ and xʸ
-- Factorial
-- 1/x
-- Absolute value
-- π and e constants
-- Percentage calculations
-- DEG / RAD / GRAD angle modes
-- Memory functions: MC, MR, M+, M−
-- Ans function
-- Calculation history
-- Keyboard support
-- Responsive design
-- Modern black and pink UI
+## Projects
 
-## Technologies Used
+### Task 1 – NovaCalc
 
-- HTML5
-- CSS3
-- JavaScript
+A modern and responsive scientific calculator designed to perform basic arithmetic and advanced scientific calculations with an interactive black and pink user interface.
 
-## Project Structure
+**Technologies:** HTML5, CSS3, JavaScript
+
+### Task 2 – Dr. A.P.J. Abdul Kalam Tribute Page
+
+A responsive tribute website dedicated to **Dr. A.P.J. Abdul Kalam**, highlighting his inspiring life, scientific contributions, achievements, books, awards, presidency and lasting legacy.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+### Task 3 – FocusFlow – Motivational To-Do Web App
+
+A motivational productivity and personal growth web application featuring task management, daily habits, progress tracking, a focus timer, motivational quotes, dream board and growth streak tracking.
+
+**Technologies:** HTML5, CSS3, Vanilla JavaScript, Local Storage
+
+### Task 4 – Login Authentication System
+
+A client-side authentication system featuring user registration, password validation, duplicate account checking, login validation and access to a protected dashboard.
+
+**Technologies:** HTML5, CSS3, JavaScript, Local Storage
+
+## Repository Structure
 
 ```text
-NovaCalc_Advanced/
+OIBSIP/
 │
-├── index.html
-├── style.css
-├── script.js
+├── WebDev-L2-Calculator/
+├── WebDev-L2-Login-Authentication/
+├── WebDev-L2-ToDo-Web-App/
+├── WebDev-L2-Tribute-Page/
+│
 └── README.md
 ```
 
-## How to Run
+## Tech Stack
 
-1. Download or clone this repository.
-2. Open the project folder in VS Code.
-3. Open `index.html`.
-4. Run it using **Live Server** or open the HTML file directly in a browser.
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Browser Local Storage
 
-## Example
+## About This Repository
 
-For trigonometric calculation:
+The purpose of this repository is to apply web development concepts through practical projects, strengthen frontend development skills and gain hands-on experience in building interactive web applications.
 
-```text
-tan → tan( → 45 → ) → =
-```
+**Internship:** Oasis Infobyte  
+**Track:** Web Development & Designing  
+**Level:** Level 2
 
-In **DEG** mode, the result is:
+---
 
-```text
-1
-```
-
-## Author
-
-**Aatifa Firdous Ashrafi**
-
-B.Tech CSE Student
+*Learning by building, improving with every project.* ✨
